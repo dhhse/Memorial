@@ -38,3 +38,6 @@
 Ссылка на презентацию: https://docs.google.com/presentation/d/15bsU9xB_3MoDxzE9kkw8-kU90EOWIV8BaoiGvAXt2nE/edit#slide=id.g6b49be7cda_2_11
 
 Схема данных для хранения информации о репрессированных лицах (v.0.2) в : https://gist.github.com/headshaker/e2c276c8307733a98101f03b80eb7ff6
+
+Важная ссылка на план!!:
+https://docs.google.com/spreadsheets/d/18vZrS_g4IJtoRecB8kfaubEHf4tuaserOPC1UU5mVaY/edit#gid=0
