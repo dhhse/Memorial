@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Д.А. Скоринкин</author>
+    <publisher>
+      <name>Д.А. Скоринкин</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">2avakovvi.xml</idno>
+    <persName>
+      <surname>Аваков</surname>
+      <firstname>Вартан</firstname>
+      <patronym>Иванович</patronym>
+    </persName>
+    <event type="birth" when="1894">
+      <place>Гори</place>
+    </event>
+    <event type="arrest" when="1937">
+      <place>Тбилиси</place>
+    </event>
+    <event type="trial" when="1937-12-26">
+      <p> 58-7, 58-11 УК ГССР [* «1) является одним из активных членов антисоветской организации
+        правых, проводившей вредительско-диверсионную работу в области энергетики Грузии,, 2) вел
+        вредительскую работу в области энергетического хозяйства Грузии,, 3) проводил широкую
+        вербовку новых членов в антисоветскую организацию правых.» ]</p>
+    </event>
+    <event type="death" cause="execution" when="1937-12-27">
+      <place/>
+    </event>
+  </person>
+  <biography>
+    <text>управляющий Грузстроя, репрессирован</text>
+  </biography>
+  <external_sources>
+    <source type="mentioned" ref="http://memoirs.memo.ru/memoir/show/id/32">Упоминание в мемуаре
+      дочери, Аваковой Е.В.</source>
+    <source type="external_database_entry" ref="https://base.memo.ru/person/show/2870823">Запись в
+      базе Международного Мемориала</source>
+    <source type="external_database_entry"
+      ref="https://ru.openlist.wiki/Аваков_Вартан_Иванович_(1894)">Запись в базе Открытого
+      списка</source>
+  </external_sources>
+</biodes>

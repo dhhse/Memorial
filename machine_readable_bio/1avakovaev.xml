@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Д.А. Скоринкин</author>
+    <publisher>
+      <name>Д.А. Скоринкин</name>
+    </publisher>
+    <idno type="source">blnp</idno>
+  </fileDesc>
+  <person>
+    <idno type="id">1avakovaev.xml</idno>
+    <persName>
+      <surname>Авакова</surname>
+      <firstname>Елена</firstname>
+      <patronym>Вартановна</patronym>
+    </persName>
+  </person>
+  <biography>
+    <text>Дочь репрессированного Вартана Ивановича Авакова</text>
+  </biography>
+</biodes>
