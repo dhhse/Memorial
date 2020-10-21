@@ -1,0 +1,44 @@
+<person main_id="4">  
+    <id type="obd-memorial">66050081</id>
+    <id type="obd-memorial">84283779</id>
+    <id type="base.memo">2937676</id>
+    <id type="pamyat-naroda">https://goo.su/2Mqz</id> <!-- у памяти народа нет нормальных id, а url очень длинный -->
+    <main_source>https://base.memo.ru/person/show/2937676</main_source>
+    <full_name> 
+        <raw_full_name>АБДУРАИМОВ ИБРАГИМ</raw_full_name> 
+        <first_name>Ибрагим</first_name>
+        <middle_name>-</middle_name>
+        <last_name>Абдураимов</last_name></full_name>
+    <Gender>мужчина</Gender> 
+    <nationality>узбек</nationality>
+    <citizenship>СССР</citizenship>
+    <education>начальное</education>
+    <event type="birth" when="----1916">
+        <place>
+            <Country>СССР</Country>
+            <Republic>КССР</Republic>
+            <Region type="oblast">Южно-Казахстанская область</Region>
+            <district>Сайрамский район</district>
+            <City type="village">с. Сайрам</City>
+            </place>
+        </event>
+    <event type="military service" sourse='obd-memorial'>
+        <draft date='09.10.1938' place='Чимкентский ГВК'>09.10.1938 Чимкентский ГВК, Казахская ССР, Южно-Казахстанская обл., г. Чимкент</draft>
+        <rank>ст. сержант</rank>
+        <dropout date='22.06.1941' reason='плен'>попал в плен (освобожден)</dropout>
+    </event> 
+    <event type="judgement" arrest_date="13.09.1945" judgement_date="04.11.1945" source="base.memo">	 
+        <court>Военный трибунал Южно-Уральского военного округа</court>
+        <judgement years="10" camp='Алкино'>10 лет ИТЛ</judgement></event>
+    <event type="rehabilitation" reh_date="03.07.1998" source="base.memo">3 июля 1998</event>
+    <extra_sources>
+        <source name="memoirs">https://obd-memorial.ru/html/info.htm?id=66050081</source></extra_sources>
+    <external_sources>
+        <source type="external_database_entry" ref="https://base.memo.ru/person/show/2937676">Запись в
+            базе Международного Мемориала</source>
+        <source type="external_database_entry" ref="https://obd-memorial.ru/html/info.htm?id=66050081">Запись в
+            обобщенном банке данных «Мемориал»</source>
+        <source type="external_database_entry" ref="https://obd-memorial.ru/html/info.htm?id=84283779">Запись в
+            обобщенном банке данных «Мемориал»</source>
+    </external_sources>
+</person> 
