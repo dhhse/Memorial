@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+    <fileDesc>
+        <title/>
+        <author>А.И. Крюков</author>
+        <publisher>
+            <name>А.И. Крюков</name>
+        </publisher>
+    </fileDesc>
+    <person>
+        <idno type="id">alekseevma1917.xml</idno>
+        <persName>
+            <surname>Алексеев</surname>
+            <firstname>Михаил</firstname>
+            <patronym>Андреевич</patronym>
+        </persName>
+        <gender>мужчина</gender>
+        <nationality>саха</nationality>
+        <citizenship>СССР</citizenship>
+        <social_origin>учитель</social_origin>
+        <education>
+            <education_speciality>учитель физики</education_speciality>
+            <education_entity>Якутский пединститут</education_entity>
+            <end_year>1955</end_year>
+        </education>
+        <event type="birth" when="1917-05-05">
+            <birth_place>
+                <country>СССР</country>
+                <republic>РСФСР</republic>
+                <region>Якутская АССР</region>
+                <district>Вилюйский округ</district>
+                <city>Баппагайинский наслег</city>
+                <data_source>https://base.memo.ru/person/show/473911</data_source>
+            </birth_place>
+        </event>
+        <event type="arrest" when="1943-03-02">
+            <p> Армия попадает в окружение и М. А. оказывается в плену, в концлагере г. Винницы, 
+                где ему едва удается избежать расстрела {15–20} М. А. бежит, добирается до Майкопа, 
+                где его выдают немцам местные жители. М. А. бежит из майкопского лагеря, пересекает линию фронта. 
+                {20–22 об.} В особом отделе от М. А. требуют признания, что он немецкий разведчик, не верят, что он якут. 
+                После запроса в Якутию обвинение переквалифицируется: теперь М. А. – побывавший в плену изменник Родины. 
+                Приговор: 10 лет ИТЛ. Девять из них М. А. отбывал в Унженском лагере (Горьковская обл.) и один год (последний) – 
+                в Енисейлаге (Красноярский край). Работал на лесоповале, на погрузке вагонов. {2, 23, 28об.–33об.} Освободился в 1951 г.
+            </p>
+        </event>  
+        <event type="rehabilitation" when="1956-09-24">
+        </event>
+        <event type="death" when="1995-09-18">
+            <place>Якутск</place>
+        </event>
+    </person>
+    <biography>
+        <text>Вся последующая жизнь М. А. связана со школой. За успешную педагогическую деятельность он награжден орденом Ленина (1966), 
+            орденом Трудового Красного знамени (1978), ему присвоено звание Народный учитель СССР (1982).</text>
+    </biography>
+    <external_sources>
+        <source type="external_database_entry" ref="https://base.memo.ru/person/show/473911">Запись в
+            базе Международного Мемориала</source>
+    </external_sources>
+</biodes>

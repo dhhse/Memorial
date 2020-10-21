@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+    <fileDesc>
+        <title/>
+        <author>А.И. Крюков</author>
+        <publisher>
+            <name>А.И. Крюков</name>
+        </publisher>
+    </fileDesc>
+    <person>
+        <idno type="id">aleksakhinip.xml</idno>
+        <persName>
+            <surname>Алексахин</surname>
+            <firstname>Иван</firstname>
+            <patronym>Павлович</patronym>
+        </persName>
+        <gender>мужчина</gender>
+        <citizenship>СССР</citizenship>
+        <event type="birth" when="1908">
+            <birth_place>
+                <country>СССР</country>
+                <republic>РСФСР</republic>
+                <region>Тульская область</region>
+                <district>Алексинский р-н</district>
+                <city>Хрущево</city>
+                <data_source>https://base.memo.ru/person/show/2660540</data_source>
+            </birth_place>
+        </event>
+        <job>зав. учебной частью, Московская диетфабрика им. Микояна</job>
+        <adress>
+            <city>Москва</city>
+            <adress>ул. Маркса, 20, кв. 61</adress>
+        </adress>
+        <event type="arrest" when="1937">
+            <p> До ареста в 1937 г. помощник секретаря МК ВКП(б). Осужден в 1938 г. ОСО при НКВД СССР к 8 годам ИТЛ. Отбывал срок 
+                в Севвостлаге. После освобождения в 1947г. жил в г. Струнино Владимирской обл. В 1948 г. был вторично арестован и 
+                отправлен на пожизненное поселение в Красноярский край. 
+            </p>
+        </event>  
+        <event type="rehabilitation" when="1955">
+        </event>
+        <event type="death" when="1990">
+        </event>
+    </person>
+    <biography>
+        <text>член ВКП(б) с 1932 г., партийный работник. До ареста в 1937 г. помощник секретаря МК ВКП(б).</text>
+    </biography>
+    <external_sources>
+        <source type="external_database_entry" ref="https://base.memo.ru/person/show/2660540">Запись в
+            базе Международного Мемориала</source>
+        <source type="external_database_entry" ref="https://www.sakharov-center.ru/asfcd/auth/?i=225&t=author">Запись в
+            базе Сахаровского центра</source>
+    </external_sources>
+</biodes>

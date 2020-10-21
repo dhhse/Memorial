@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+    <fileDesc>
+        <title/>
+        <author>А.И. Крюков</author>
+        <publisher>
+            <name>А.И. Крюков</name>
+        </publisher>
+    </fileDesc>
+    <person>
+        <idno type="id">altonecki.xml</idno>
+        <persName>
+            <surname>Алтонец</surname>
+            <firstname>Константин</firstname>
+            <patronym>Иванович</patronym>
+        </persName>
+        <gender>мужчина</gender>
+        <citizenship>СССР</citizenship>
+        <birth_place>
+            <country>СССР</country>
+            <republic>РСФСР</republic>
+            <region>Волгоградская область</region>
+            <city>хутор Отруб</city>
+            <data_source>https://base.memo.ru/person/show/2660540</data_source>
+        </birth_place>
+        <job>крестьянин, кулак</job>
+        <event type="purchase" when="1927">
+            <p>Дед на паях с сыновьями приобрел молотилку</p>
+        </event>  
+        <event type="exile" when="1930">
+            <place>республика Коми</place>
+        </event>
+    </person>
+    <biography>
+        <text>работа на лесоповале, полуголодное существование, высокая смертность. Дед автора – 
+            крепкий и сильный человек – умирает в возрасте 65 лет</text>
+    </biography>
+    <external_sources>
+        <external_sources>
+            <source type="mentioned" ref="http://memoirs.memo.ru/memoir/show/id/4">Упоминание в воспоминаниях
+                внука, Алтонца П.С.</source>
+        </external_sources>
+</biodes>
