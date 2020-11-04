@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>Д.А. Скоринкин</author>
+    <publisher>
+      <name>Д.А. Скоринкин</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">3luzyanin</idno>
+    <persName>
+      <surname>Лузянин</surname>
+      <firstname>Николай</firstname>
+      <patronym>Николаевич</patronym>
+    </persName>
+    <nationality code="rus">русский</nationality>
+    <party_membership code="none">б/п</party_membership>
+    <life_events>
+      <event type="birth" when="1922-12-22">
+        <place>Новосибирская обл., д. Абсогачево</place>
+        <place>Томская обл., Ачинский р-н, с. Абсагачево</place>
+        <place>Апсагач</place>
+      </event>
+      <event type="conscription" when="1944-01-01">
+        <place>Пышкино-Троицкий РВК, Новосибирская обл., Пышкино-Троицкий р-н</place>
+      </event>
+      <event type="service" from="1944-05-01" to="1944-08-17"
+        source="https://pamyat-naroda.ru/heroes/memorial-chelovek_donesenie54299842">
+        <org>33 гв. стрелковая дивизия, 84 стрелковый полк</org>
+        <rank code='lieutenant'>лейтенант</rank>
+      </event>
+      <event type="mia" when="1944-08-21" source="https://obd-memorial.ru/html/info.htm?id=54299842">
+        <p>пропал без вести</p>
+        <place>Литва</place>
+      </event>
+      <event type="taken_pow" when="1944-08-28"
+        source="https://obd-memorial.ru/html/info.htm?id=272072745">
+        <place>Куртовяны</place>
+      </event>
+      <event type="pow" from="1944-08-28" source="https://obd-memorial.ru/html/info.htm?id=272072745">
+        <place>шталаг I B</place>
+        <prisoner_id>53192</prisoner_id>
+      </event>
+      <event type="arrest" when="1945-05-28">
+        <place/>
+      </event>
+      <event type="sentence" when="1945-07-12">
+        <sentence article="58" subclause="07">ст.58-07, измена Родине</sentence>
+      </event>
+      <event type="rehabilitation" when="1958-05"> </event>
+      <event type="award"
+        source="https://pamyat-naroda.ru/heroes/memorial-chelovek_donesenie54299842">
+        <award>Орден Отечественной войны II степени</award>
+        <!-- можно сделать закрытый список -->
+      </event>
+    </life_events>
+  </person>
+  <external_sources>
+    <source type="external_database_entry" base="#podvig"
+      ref="https://pamyat-naroda.ru/heroes/memorial-chelovek_donesenie54299842https://pamyat-naroda.ru/heroes/memorial-chelovek_donesenie54299842"
+      > Запись в базе "Подвиг народа"</source>
+    <source type="external_database_entry" base="#memo"
+      ref="https://base.memo.ru/person/show/2382104">Запись в базе Межднародного Мемориала</source>
+    <source type="external_database_entry" base="#obd"
+      ref="https://obd-memorial.ru/html/info.htm?id=54299842">Запись в базе "ОБД Мемориал"</source>
+  </external_sources>
+</biodes>
